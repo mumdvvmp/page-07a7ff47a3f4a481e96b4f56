@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "86bc4455abf8d61e12dfcb18",
+  "owner": "mumdvvmp",
+  "repo": "page-07a7ff47a3f4a481e96b4f56",
+  "title": "KC云加速(KCNetwork)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "07a7ff47a3f4a481e96b4f56",
+      "a": "KC云加速(KCNetwork)",
+      "b": "2027官方最新地址导航",
+      "entity": "KC云加速(KCNetwork)",
+      "brand": "KC云加速(KCNetwork)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "bd191fe8351119f104f1e7727abd77e5bf74bc717e17f436e2cdc65a1713d523",
+      "content": {
+        "primary_entity": "KC云加速(KCNetwork)",
+        "keyword1": "KC云加速(KCNetwork)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅信息后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量需求选好套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "开始选择适合的套餐",
+          "AI_DESCRIPTION": "，侧重线路稳定性与订阅管理，提供基础版、旗舰版与团队版三档选择，月付或年付均可，适合多设备用户按实际流量需求灵活搭配。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备数量到订阅周期，三个方面帮助快速匹配需求。",
+          "AI_FEATURES_TITLE": "选择与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合轻度使用，旗舰版300GB兼顾流媒体与游戏，团队版1000GB适合多设备协作。",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版5台，团队版20台，按日常同时在线终端数量选择即可。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版年付¥150、旗舰版¥350、团队版¥850，长期使用优先考虑年付。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备定档位",
+          "AI_FEATURE_TITLE_3": "按周期看成本",
+          "AI_GUIDE_INTRO": "选定服务后确认设备适配，再按对应客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "KC云加速提供基础版、旗舰版与团队版三档订阅，覆盖100GB至1000GB月流量，支持3至20台设备，按年付可享更低月均成本。",
+          "AI_HERO_SUBTITLE": "多档套餐按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖100GB到1000GB月流量",
+          "AI_HIGHLIGHT_2": "支持3至20台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付基础版低至¥150",
+          "AI_PLANS_INTRO": "基础版¥15/月或¥150/年，旗舰版¥35/月或¥350/年，团队版¥85/月或¥850/年，按流量与设备数选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量、同时在线设备数量与预算，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端匹配，查看对应适配要求，确保订阅可正常导入。",
+          "AI_STEP_TEXT_3": "按照所选客户端的使用文档，将订阅信息导入并开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "KC云加速套餐随心选",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要差别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、3台设备，旗舰版每月300GB、5台设备，并增加IPLC专线和全节点流媒体解锁。",
+          "AI_FAQ_QUESTION_2": "订阅可以同时在多台设备上使用吗？",
+          "AI_FAQ_ANSWER_2": "各套餐规定了同时在线的设备上限，基础版3台、旗舰版5台、团队版20台，按套餐限制使用即可。",
+          "AI_FAQ_QUESTION_3": "年付比月付划算在哪里？",
+          "AI_FAQ_ANSWER_3": "年付基础版150元、旗舰版350元、团队版850元，折算后每月成本低于对应月付价格。",
+          "AI_FAQ_QUESTION_4": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_4": "购买后获取订阅链接，打开所选客户端的订阅管理页面，粘贴链接并更新即可完成导入。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供1000GB月流量和20台设备在线，并支持企业定制路由与专属客户经理，适合多人协作环境。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jdyfw.cn",
+    "host": "jdyfw.cn"
+  },
+  "file_hashes": {
+    "index.html": "c330954be716f721fe8d0ea7b2490a3f284295c88d160c54e3703511357a66e4",
+    "sitemap.xml": "c753b5e43893d7442988f09550e652df019512e37503e65a5e5164e9f7d2bd17",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "18335d51e8d744e5764c3ffcff22b00c26c8f1cbca1c243899d036a5a534632d",
+    "robots.txt": "38c53a88f7133ee3aed0a1961cdef6ed318efef5873ec3a31014410d7c91a6dc",
+    "c31395597a086effcf270d7bc3ab858a.txt": "5a5cfa0689ffbfcb3858b778627286a7df7d6000d642336674c1dcffa1fc299d"
+  },
+  "revision": "17a4ba3536dca2f4d45a112e644339779a50fae229c50511708e44dcbb7263d0"
+}
